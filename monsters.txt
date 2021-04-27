@@ -1,0 +1,20 @@
+Animated armor,1
+Bugbear,1
+Harpy,1
+Scarecrow,1
+Minotaur,2
+Owlbear,2
+Banshee,2
+Wereboar,2
+Giant crocodile,3
+Troll,3
+Hobgoblin warlord,3
+Mammoth,3
+Stone giant,4
+Night hag,4
+Assassin,4
+Hydra,4
+Cloud giant,5
+Silver dragon,5
+Vampire,5
+Lich,5

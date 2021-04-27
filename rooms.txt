@@ -1,0 +1,10 @@
+Red Room
+Quartz,Embroidered silk handkerchief,50 gold
+Blue Room
+Pearl,Bronze crown,100 gold
+Green Room
+Topaz,Gold dragon comb,500 gold
+Yellow Room
+Emerald,Old masterpiece painting,1000 gold
+Final Room
+Diamond,Golden sarcophagus,5000 gold
